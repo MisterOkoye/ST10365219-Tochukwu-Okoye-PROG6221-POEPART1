@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\bin\Debug\net8.0\part_1_poe.exe
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\bin\Debug\net8.0\part_1_poe.deps.json
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\bin\Debug\net8.0\part_1_poe.runtimeconfig.json
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\bin\Debug\net8.0\part_1_poe.dll
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\bin\Debug\net8.0\part_1_poe.pdb
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.AssemblyInfo.cs
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.dll
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\refint\part_1_poe.dll
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.pdb
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\part_1_poe.genruntimeconfig.cache
+C:\Users\HP\Desktop\POE_PART_1\part_1_poe\part_1_poe\obj\Debug\net8.0\ref\part_1_poe.dll
