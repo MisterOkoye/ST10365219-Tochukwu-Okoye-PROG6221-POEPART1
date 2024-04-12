@@ -41,8 +41,7 @@ namespace RecipeApplication
                         recipeManager.ViewRecipe();
                         break;
                     case 2:
-                        recipeManager.ResetQuantities();
-                        recipeManager.ViewRecipe();
+                      
                         break;
                     case 3:
                         recipeManager.ClearData();
