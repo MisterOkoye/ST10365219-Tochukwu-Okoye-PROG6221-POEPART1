@@ -55,9 +55,7 @@ namespace RecipeApplication
                         recipeManager.ViewRecipe();
                         break;
                     case 4:
-                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("Good-Bye, exiting...");
-                        Console.ResetColor();
                         Environment.Exit(0);
                         break;
                     default:
