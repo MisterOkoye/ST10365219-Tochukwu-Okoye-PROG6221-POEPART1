@@ -118,9 +118,9 @@ namespace RecipeApplication
 
             int ingredientCount = Program.getChoice("Number of ingredients:");
             Console.Clear();
-            ingredients = new string[ingredientCount];
-            quantities = new double[ingredientCount];
-            units = new string[ingredientCount];
+            ingredients = new string[ingredientCount];// Initialize the ingredients array
+            quantities = new double[ingredientCount];// Initialize the quantities array
+            units = new string[ingredientCount];// Initialize the units array
 
             // Looping through each ingredient to get details
             for (int i = 0; i < ingredientCount; i++)
@@ -133,7 +133,7 @@ namespace RecipeApplication
                 quantities[i] = quantData;
 
                 String choiceTry;
-                int choice = 0;
+                int choice = 0; 
 
                 do
                 {
