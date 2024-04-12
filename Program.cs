@@ -290,7 +290,7 @@ namespace RecipeApplication
             Console.ResetColor();
         }
 
-        // Method to clear all data
+        // Method to clear all the data
         public void ClearData()
         {
             Console.Clear();
