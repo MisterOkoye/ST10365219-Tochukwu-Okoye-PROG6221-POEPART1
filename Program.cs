@@ -37,11 +37,12 @@ namespace RecipeApplication
                 switch (choice)
                 {
                     case 1:
-                        recipeManager.ScaleRecipe();
-                        recipeManager.ViewRecipe();
+                        recipeManager.ScaleRecipe(); 
+                        recipeManager.ViewRecipe();// This displays the Recipe
                         break;
                     case 2:
-                      
+                        recipeManager.ResetQuantities();
+                        recipeManager.ViewRecipe();
                         break;
                     case 3:
                         recipeManager.ClearData();
