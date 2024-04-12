@@ -137,7 +137,7 @@ namespace RecipeApplication
 
                 do
                 {
-                    //Console.Clear();
+                    Console.Clear();
 
                     if (choice > 0)
                     {
