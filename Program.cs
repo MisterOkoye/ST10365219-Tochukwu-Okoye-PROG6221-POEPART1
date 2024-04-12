@@ -62,7 +62,7 @@ namespace RecipeApplication
                         break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Invalid choice. Please try again.");
+                        Console.WriteLine("Invalid choice, please try again.");
                         Console.ResetColor();
                         break;
                 }
