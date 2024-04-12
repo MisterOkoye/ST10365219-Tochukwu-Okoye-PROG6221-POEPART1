@@ -253,7 +253,7 @@ namespace RecipeApplication
                     return;
             }
 
-            // Storing the scaling factor into the Arraylist
+            // Storing the scaling factor into the Arraylist(a where each factor the user entered will be stored)
             scaleFactor.Add(factor);
             Console.Clear();
 
