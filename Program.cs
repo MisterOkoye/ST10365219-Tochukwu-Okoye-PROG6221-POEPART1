@@ -20,7 +20,7 @@ namespace RecipeApplication
             Console.ResetColor();
 
             recipeManager.EnterRecipe();
-          //  Console.Clear();
+          Console.Clear();
 
             recipeManager.ViewRecipe();
 
